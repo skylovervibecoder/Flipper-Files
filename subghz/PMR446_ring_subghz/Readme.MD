@@ -42,4 +42,14 @@ Actual behavior depends on the file format, device hardware, firmware, and appli
 
 ## Technical Specifications
 
-- **Frequency band:** 446.0–
+- **Frequency band:** 446.0–446.2 MHz
+- **Number of analogue channels:** 16
+- **Channel spacing:** 12.5 kHz
+- **Modulation:** Typically narrowband FM (analogue PMR446)
+- **Use case:** Channel selection and RF testing with compatible equipment
+
+## Disclaimer
+
+This project is provided for educational, experimental, and testing purposes only. The developer assumes no responsibility for misuse, interference, equipment damage, or violations of applicable laws and regulations.
+
+Always ensure that your equipment and intended use comply with local radio regulations before transmitting. PMR446 transmissions are subject to specific requirements regarding equipment, antenna, power, and permitted use.
